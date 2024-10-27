@@ -1,0 +1,1 @@
+static constexpr bool DEBUG = true;
